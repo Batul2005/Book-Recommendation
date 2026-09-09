@@ -43,5 +43,5 @@ Recommendation systems are widely used in platforms like **Amazon, Goodreads, an
 ## 🚀 Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/book-recommendation-system.git
-   cd book-recommendation-system
+   git clone https://github.com/bathul2005/Book-Recommendation.git
+   cd Book-Recommendation
